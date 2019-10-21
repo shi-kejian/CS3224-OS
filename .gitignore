@@ -1,4 +1,5 @@
 /.vagrant
-/*.pdf
-/*.docx
-/menifests
+*.pdf
+*.docx
+manifests
+.DS_store
