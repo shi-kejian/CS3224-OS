@@ -1,4 +1,4 @@
 /.vagrant
-*.pdf
-*.docx
-menifests
+/*.pdf
+/*.docx
+/menifests
